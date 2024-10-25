@@ -1,2 +1,2 @@
-# Parachute-ANimation
+# Parachute-Animation
 Parachute Animation
